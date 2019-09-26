@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice FreeCodeCamp challage build in Nodejs and express framework",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyph09/timestamp-api.git"
+  },
+  "author": "Swaleh Mhina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyph09/timestamp-api/issues"
+  },
+  "homepage": "https://github.com/Cyph09/timestamp-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
